@@ -1,6 +1,6 @@
-require "march/version"
+require "march_madness/version"
 
-module March
+module MarchMadness
   class Error < StandardError; end
   # Your code goes here...
 end
